@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Список покупок</string>
+    <string name="title_buy">Нужно купить</string>
+    <string name="title_bought">Уже куплено</string>
+    <string name="btn_go_shopping">За покупками</string>
+    <string name="btn_add">Добавить продукт</string>
+    <string name="hint_product_name">Название товара</string>
+    <string name="hint_quantity">Количество</string>
+    <string name="empty_list">Список пуст</string>
+</resources>

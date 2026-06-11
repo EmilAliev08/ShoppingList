@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="title_buy">To Buy</string>
+    <string name="title_bought">Bought</string>
+    <string name="btn_go_shopping">Go Shopping</string>
+    <string name="btn_add">Add Product</string>
+    <string name="hint_product_name">Product Name</string>
+    <string name="hint_quantity">Qty</string>
+    <string name="empty_list">List is empty</string>
+</resources>
